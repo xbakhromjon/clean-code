@@ -77,7 +77,5 @@ public class MeaningfulNames {
     }
 
     public void XYZControllerForEfficientStorageOfStrings () {
-
-
     }
 }
