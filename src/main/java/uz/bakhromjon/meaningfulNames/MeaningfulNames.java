@@ -15,7 +15,15 @@ public class MeaningfulNames {
         int daysSinceModification;
         int fileAgeInDays;
 
-
+        //
+        int l = 1;
+        int O = 12;
+        int a = l;
+        if ( O == l )
+//            a = O1;
+            a = 1;
+        else
+            l = 01;
     }
 
     // bad code
@@ -43,7 +51,7 @@ public class MeaningfulNames {
 //    }
 
 
-    class Cell {
+    static class Cell {
         boolean isFlagged;
         int[] arr;
 
@@ -61,5 +69,15 @@ public class MeaningfulNames {
                 flaggedCells.add(cell);
             }
         return flaggedCells;
+    }
+
+    public void XYZControllerForEfficientHandlingOfStrings () {
+
+
+    }
+
+    public void XYZControllerForEfficientStorageOfStrings () {
+
+
     }
 }
